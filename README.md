@@ -1,0 +1,3 @@
+As data science is changing the world we live in, so right at this time the open competition to excel in development between the tech giants, the emergence or even transforming the world with knowledge, so learning right programming are really important to at least be above the water in a competitive field of tech. However, with so many choices available, how do you get started? Lets take a glance at the most import programming languages that every data scientist should include in his/her tool bag.
+This Blog will guide you about Data Science Languages.
+https://medium.com/@raj_18803/top-5-data-science-languages-you-need-to-know-in-2025-61123ba57cbe
